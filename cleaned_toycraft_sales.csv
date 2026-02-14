@@ -1,0 +1,6 @@
+Date,Product,Category,Sales,Profit,Year,Month,Profit_Margin
+2024-01-01,Phone,Electronics,50000,8000,2024,1,0.16
+2024-01-02,Laptop,Electronics,70000,12000,2024,1,0.17142857142857143
+2024-01-03,Shirt,Clothing,15000,3000,2024,1,0.2
+2024-01-04,Shoes,Clothing,20000,4000,2024,1,0.2
+2024-01-05,Watch,Accessories,10000,2000,2024,1,0.2
